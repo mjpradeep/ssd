@@ -1,0 +1,48 @@
+online form that users can submit. Similar we have to create for us
+
+Hi Pradeep without a work authorisation it is not compliant to work from outside India even for a short period.Request you to please apply for a leave.
+
+OneFinanceDataFabricTeam@gsk.com
+
+
+git token
+
+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
+old
+https://mygithub.gsk.com/gsk-tech/RD-OneFinance-DataFabric.git
+
+new
+https://github.com/gsk-tech/RD-OneFinance-DataFabric
+
+dbks_nb_sd_drm_Load_SrcToBase
+dbks_nb_sd_drm_LoadAttributeHierarchy_BaseToUnified
+
+
+latest git token
+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
+
+
+FDR -Dev:
+HibiscusG$#4040
+
+SQL :
+
+520bf2d0-9d71-49f2-ae93-741cbbadb0cc
+
+rdonefcdwuserdevtest
+
+
+DataLake Storage account: cordus6abfsdevtest001
+Path for storage account:  /data/foundation/onefinance-conf/onefinance/global/source_domain/drm
+
+
+
+api_key = "ffab06e624994ce78ec241d6219bdc87"
+
+api_base = "https://momgen.openai.azure.com/"
+
+api_version="2023-05-15"
+
+# api_version="2022-12-01"
+
+api_type="azure"
